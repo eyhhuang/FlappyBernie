@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DollarBarrier
+comment0.text=\r\n\ \ dollar\ bill\ barrier\ \r\n\ \r\n\ @author\ Emily\ Huang\r\n\ @version\ 19\ -\ 01\ -\ 17\r\n
+comment1.params=
+comment1.target=DollarBarrier()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

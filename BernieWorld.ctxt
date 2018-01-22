@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BernieWorld
+comment0.text=\r\n\ Manages\ objects\ in\ Flappy\ Bernie\r\n\ \r\n\ @author\ Emily\ Huang\r\n\ @version\ 19\ -\ 01\ -\ 17\r\n
+comment1.params=
+comment1.target=BernieWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BernieWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ makePipe()
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Score
+comment0.text=\r\n\ keeps\ active\ and\ aesthetically\ pleasing\ score\ on\ top\ left\ corner\r\n\ \r\n\ @author\ Emily\ Huang\ \r\n\ @version\ 19\ -\ 01\ -\ 17\r\n
+comment1.params=
+comment1.target=Score()
+comment2.params=score
+comment2.target=void\ setScore(int)
+numComments=3
